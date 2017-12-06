@@ -66,8 +66,8 @@ console.log(Immutable.is(parsed, myRecord));
 #### ES6
 
 - [x] Symbol
-- [ ] Map
-- [ ] Set
+- [x] Map
+- [x] Set
 - [ ] Typed Array
 
 ### License
